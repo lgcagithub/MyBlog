@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 灿子的宇宙
-subtitle: 逗逼的宇宙
-description: 你说岁月没有留下装逼的痕迹，但你已装过。谁信？→▽→...
+title: 阳光灿烂
+subtitle: 的码屌
+description: 你说岁月没有留下拼搏的痕迹，但你已努力过。谁信......
 author: 阳光灿烂
 language: zh-CN
 timezone:
@@ -70,3 +70,6 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:lgcagithub/lgcagithub.github.io.git
+
+# 多说评论框相关
+duoshuo_shortname: lgcagithub
